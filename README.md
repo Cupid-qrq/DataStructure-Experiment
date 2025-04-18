@@ -1,11 +1,12 @@
 
-## *华中科技大学 CS大一数据结构实验*
+## *HUST CS大一数据结构实验*
 ## *Cupid-qrq*
 ---
 
-### *本仓库包含四个使用 C with Cpp 的管理系统，作为数据结构课程的实验/大作业提交内容。*
+### *This repository contains four systems implemented using' C/Cpp，submitted as assignments for the Data Structure course.*
 
-- *顺序储存结构线性表管理系统*
-- *链式储存结构线性表管理系统*
-- *基于二叉链表的二叉树管理系统*
-- *基于邻接表的图管理系统*
+- *Sequential Storage Structure Linear List Management System*
+- *Linked Storage Structure Linear List Management System*
+### *The following parts will be completed in the future*
+- *Binary Tree Management System Based on Binary Linked List*
+- *Graph Management System Based on Adjacency List*
